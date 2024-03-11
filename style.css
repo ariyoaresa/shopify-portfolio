@@ -67,7 +67,7 @@ header {
 /* Hero Section Styles */
 .hero {
     position: relative;
-    background: url("shopify.webp");
+    background: url("https://fabscreative.vercel.app/shopify.webp");
     background-size: cover;
     background-position: center;
     text-align: center;
